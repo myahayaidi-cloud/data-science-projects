@@ -10,11 +10,11 @@ Collection de projets d'analyse de données et de géomatique réalisés par **Y
 
 **Période :** Février à Juillet 2026
 
-**Description :** Analyse de la situation sanitaire dans les pays de l'UEMOA avec un focus particulier sur les quatre pays sahéliens (Niger, Burkina Faso, Mali, Sénégal). Exploration des indicateurs de santé, des infrastructures et des disparités régionales.
+**Description :** Analyse de la situation sanitaire dans les pays de l'UEMOA avec un focus particulier sur les quatre pays sahéliens (Niger, Burkina Faso, Mali, Sénégal). Exploration des indicateurs de santé (paludisme, la mortalité maternelle et la couverture sanitaire), et disparités régionales.
 
 **Outils :** Python, Pandas, Matplotlib, Jupyter Lab
 
-**📓 Notebook :** [Voir le notebook (HTML)](./etude-sanitaire-afrique-ouest/notebook.html)
+**📓 Notebook :** [Voir le notebook sur Google Colab](https://colab.research.google.com/drive/1Ue8D4EabR9TyY6swwa2S8ID9SDfcWAp-?usp=sharing)
 
 ---
 
